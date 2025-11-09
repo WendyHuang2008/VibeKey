@@ -10,3 +10,5 @@ Hardware Requirement
 - VibeKey glove
 
 Video: https://youtu.be/F1PnycncVjw 
+
+Code co-programmed by Hannah Thomas and Wendy Huang for the Computer Science Project. 
